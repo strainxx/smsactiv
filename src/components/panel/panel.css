@@ -1,0 +1,18 @@
+.panel{
+    margin-top: 2%;
+    border: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20vw;
+    border-color: rgb(78, 86, 87);
+    gap: 10vh;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

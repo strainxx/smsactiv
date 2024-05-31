@@ -1,0 +1,15 @@
+.gray-btn{
+    background-color: rgb(32, 32, 32);
+    border: solid gray;
+    border-width: 1px;
+    border-radius: 6px;
+    padding: 15px;
+    align-self: center;
+    width: 60vw;
+    color: aliceblue;
+    transition-duration: 1s;
+}
+
+.gray-btn:hover{
+    background-color: gray;
+}

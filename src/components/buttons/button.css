@@ -1,0 +1,14 @@
+.btn{
+    background-color: rgb(20, 167, 167);
+    border: none;
+    border-radius: 6px;
+    padding: 5px;
+    align-self: center;
+    width: 40vw;
+    color: aliceblue;
+    transition-duration: 1s;
+}
+
+.btn:hover{
+    background-color: rgb(20, 120, 167);
+}
